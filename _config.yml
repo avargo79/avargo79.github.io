@@ -30,7 +30,7 @@ twitter_username: avargo79
 github_username: avargo79
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
